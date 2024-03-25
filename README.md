@@ -25,3 +25,9 @@ Shhh I am still working on them.
 
 ## Using
 To use the tests, read the README.MD in each folder.
+To use the SPC700 tests, pretend there's a README.MD in it. IT follows the same conventions as the others.
+
+## TomHarte
+Gotta give a link to TomHarte's original tests here, that I used in development of other emulators, and which inspired these.
+
+https://github.com/TomHarte/ProcessorTests
