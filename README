@@ -1,0 +1,9 @@
+Tests have been moved into the SingleStepTest collection, each in their own repository!
+
+https://github.com/SingleStepTests
+
+The tests that used to be here are SPECIFICALLY at:
+
+SM83: https://github.com/SingleStepTests/sm83
+Z80: https://github.com/SingleStepTests/z80
+SPC700: https://github.com/SingleStepTests/spc700
